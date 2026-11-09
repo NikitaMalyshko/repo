@@ -1,4 +1,4 @@
 def get_message():
-    return "Начальный вариант сообщения"
+    return "Версия из ветки feature2"
 
 print(get_message())
