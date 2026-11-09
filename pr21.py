@@ -7,3 +7,6 @@ while (r<10):
     if r==5 : break
     print(r)
 print(r)
+
+print("Сколько раз сработал цикл? ->")
+print(r)
